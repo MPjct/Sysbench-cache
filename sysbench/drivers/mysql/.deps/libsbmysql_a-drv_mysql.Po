@@ -1,0 +1,167 @@
+libsbmysql_a-drv_mysql.o libsbmysql_a-drv_mysql.o: drv_mysql.c \
+  ../../../config/config.h /usr/include/string.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h /usr/include/strings.h \
+  /opt/local/include/mysql5/mysql/mysql.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /opt/local/include/mysql5/mysql/mysql_version.h \
+  /opt/local/include/mysql5/mysql/mysql_com.h \
+  /opt/local/include/mysql5/mysql/mysql_time.h \
+  /opt/local/include/mysql5/mysql/my_list.h \
+  /opt/local/include/mysql5/mysql/typelib.h \
+  /opt/local/include/mysql5/mysql/my_alloc.h \
+  /opt/local/include/mysql5/mysql/mysqld_error.h \
+  ../../../sysbench/sb_options.h ../../../config/config.h \
+  /usr/include/stdio.h /usr/include/secure/_stdio.h \
+  ../../../sysbench/sb_list.h ../../../sysbench/db_driver.h \
+  ../../../sysbench/sysbench.h /usr/include/stdlib.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/sys/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/i386/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/resource.h /usr/include/unistd.h \
+  /usr/include/sys/unistd.h /usr/include/pthread.h \
+  /usr/include/pthread_impl.h /usr/include/sched.h /usr/include/time.h \
+  /usr/include/_structs.h ../../../sysbench/sb_options.h \
+  ../../../sysbench/sb_timer.h /usr/include/sys/time.h \
+  /usr/include/sys/_select.h ../../../sysbench/sb_logger.h \
+  ../../../sysbench/tests/sb_cpu.h ../../../sysbench/tests/sb_fileio.h \
+  ../../../sysbench/tests/sb_memory.h \
+  ../../../sysbench/tests/sb_threads.h ../../../sysbench/tests/sb_mutex.h \
+  ../../../sysbench/tests/sb_oltp.h ../../../sysbench/sb_list.h
+
+../../../config/config.h:
+
+/usr/include/string.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+/usr/include/secure/_string.h:
+
+/usr/include/secure/_common.h:
+
+/usr/include/strings.h:
+
+/opt/local/include/mysql5/mysql/mysql.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/opt/local/include/mysql5/mysql/mysql_version.h:
+
+/opt/local/include/mysql5/mysql/mysql_com.h:
+
+/opt/local/include/mysql5/mysql/mysql_time.h:
+
+/opt/local/include/mysql5/mysql/my_list.h:
+
+/opt/local/include/mysql5/mysql/typelib.h:
+
+/opt/local/include/mysql5/mysql/my_alloc.h:
+
+/opt/local/include/mysql5/mysql/mysqld_error.h:
+
+../../../sysbench/sb_options.h:
+
+../../../config/config.h:
+
+/usr/include/stdio.h:
+
+/usr/include/secure/_stdio.h:
+
+../../../sysbench/sb_list.h:
+
+../../../sysbench/db_driver.h:
+
+../../../sysbench/sysbench.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/machine/_structs.h:
+
+/usr/include/i386/_structs.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/pthread.h:
+
+/usr/include/pthread_impl.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/_structs.h:
+
+../../../sysbench/sb_options.h:
+
+../../../sysbench/sb_timer.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/sys/_select.h:
+
+../../../sysbench/sb_logger.h:
+
+../../../sysbench/tests/sb_cpu.h:
+
+../../../sysbench/tests/sb_fileio.h:
+
+../../../sysbench/tests/sb_memory.h:
+
+../../../sysbench/tests/sb_threads.h:
+
+../../../sysbench/tests/sb_mutex.h:
+
+../../../sysbench/tests/sb_oltp.h:
+
+../../../sysbench/sb_list.h:
